@@ -1,0 +1,9 @@
+b=9
+b+=3
+print(b)
+b-=1
+print(b)
+b*=2
+print(b)
+b/=11
+print(b)
