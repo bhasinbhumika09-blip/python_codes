@@ -1,3 +1,7 @@
+#list -- collection of different data type elements 
+          #they are mutable
+
+
 list_1=[1,6,3,7,2,32,65,98,72,56,12]
 
 list_1.sort() # use to arrange numbers in ascending order
