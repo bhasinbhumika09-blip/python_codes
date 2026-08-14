@@ -1,0 +1,22 @@
+#Tuple -- collection of immutable datatype
+#a() --empty typle
+#a=(1,) --tuple with one element need a comma
+
+a=(1,8,4,98,43,26,8)
+
+print(type(a))
+
+no=a.count(8)
+print(no)
+
+no=a.count(26)
+print(no)
+
+no=a.count(12)
+print(no)
+
+index=a.index(4)
+print(index)
+
+print(98 in a)
+print(10 in a)
